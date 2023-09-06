@@ -2,7 +2,7 @@
 
 meu nome é michely bianco
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - tenho 15 anos
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
